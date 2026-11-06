@@ -48,21 +48,7 @@ I enjoy transforming ideas into practical digital products. My interests include
 
 <div align="center">
 
-**MOBILE DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=react,js,ts" />
-
-<br/><br/>
-
-**BACKEND DEVELOPMENT**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres" />
-
-<br/><br/>
-
-**TOOLS & ENVIRONMENT**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,java,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,nestjs,postgres,git,github,vscode,java,androidstudio" />
 
 </div>
 
