@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Mobile+Developer;React+Native+Developer;AI+Enthusiast;Building+Digital+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Mobile+Developer;React+Native+Developer;Building+Digital+Experiences" />
 
 <br/><br/>
 
@@ -25,7 +25,7 @@
 name: Rushiru Karunarathna
 location: Sri Lanka
 role: Software Engineer
-company: RDK (Pvt) Ltd
+
 
 interests:
   - Mobile Application Development
