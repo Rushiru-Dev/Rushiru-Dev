@@ -67,25 +67,9 @@ I enjoy transforming ideas into practical digital products. My interests include
 
 </div>
 
----
 
-## `04` — GitHub Analytics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rushiru-Dev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushiru-Dev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" />
-
-<br/><br/>
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushiru-Dev&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-
-</div>
-
----
-
-## `05` — Let's Connect
+## `04` — Let's Connect
 
 <div align="center">
 
@@ -112,5 +96,7 @@ I enjoy transforming ideas into practical digital products. My interests include
 <sub>Designed & Developed by Rushiru Karunarathna</sub>
 
 <sub>Building the future, one line of code at a time.</sub>
+
+<sub>Sri Lanka 🇱🇰</sub>
 
 </div>
